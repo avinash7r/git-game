@@ -1,23 +1,11 @@
-# git-game
-**Welcome to the Game!**  
+**Congratulations! you reached level-3**
 
-Hello, adventurer! 👋  
+You’ve done it! By uncovering the hidden **tree**, you've shown exceptional curiosity and skill.
 
-Welcome to **Task 1** of your journey. Your mission begins with solving a riddle that will guide you to the next step in this adventure.  
+Now, it’s time for your next challenge. Inside this branch, there’s a " code.c ". Something’s off with the code, and you need to figure out who’s responsible for this error.
 
-**Riddle:**  
-"I am a greeting and a declaration,  
-A programmer's first creation.  
-In every beginner’s quest,  
-I mark the start, I’m the test.  
-What am I?"  
+**Hint:** You 'blame' the person who has done this to the code.
 
-🔑 **Hint:** The answer to this riddle will reveal the name of the branch you need to switch to.  
+Once you find the name, you’ll realize it’s more than just a name—it’s also a branch. A branch that’s waiting for you.
 
-**Your Task:**  
-Figure out the answer to the riddle and use it to switch to the correct branch. Once you’ve solved it, run the command:  
-```bash
-git checkout <branch-name>
-```  
-
-Your next challenge awaits on the correct branch. Good luck, and may your wits guide you! 🎮
+Solve the mystery, and move forward to the next step!
