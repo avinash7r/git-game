@@ -1,11 +1,11 @@
-**Congratulations!**  
+Congratulations! 🎉
 
-You’ve done it! By uncovering the hidden **tree**, you've shown exceptional curiosity and skill.
+You've successfully tracked down the culprit! It seems you've pinpointed the individual behind the code that caused the issue. Well done for using your investigative skills to find the right person!
 
-Now, it’s time for your next challenge. Inside this branch, there’s a " code.c ". Something’s off with the code, and you need to figure out who’s responsible for this error.
+It turns out there’s a branch dedicated to this very individual. Seems like you’re getting closer to completing the challenge! 🌟
 
-**Hint:** You "blame" the person who does it.  
+Now, take a moment to look at a file you’ve encountered in both this branch and a previous one. It seems familiar, doesn’t it? But wait—there’s a twist! The contents of the file are "different" between the two branches. Do you "remember" seeing it before? 🤔
 
-Once you find the name, you’ll realize it’s more than just a name—it’s also a branch. A branch that’s waiting for you.  
+There’s a **clue** hidden in the "diff"erences. Take a look closely—this could be the key to unlocking the next step in your journey! 🔑
 
-Solve the mystery, and move forward to the next step!  
+Keep up the great work, and get ready for the next task. You’ve shown great perseverance in solving this one! 👏
