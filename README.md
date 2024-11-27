@@ -1,17 +1,25 @@
-## Welcome to Task 2!
+# git-game
 
-Congratulations on progressing this far! You're doing great.
+**Welcome to the Game!**
 
-Here's your next challenge:
+Hello, adventurer! 👋
 
-Riddle:
-"I stand tall with many arms,
-Reaching out to touch the stars.
-My roots run deep, unseen below,
-Yet on me, life and growth bestow.
+Welcome to **Task 1** of your journey. Your mission begins with solving a riddle that will guide you to the next step in this adventure.
+
+**Riddle:**  
+"I am a greeting and a declaration,  
+A programmer's first creation.  
+In every beginner’s quest,  
+I mark the start, I’m the test.  
 What am I?"
 
-**Your Task:**
-The answer to this riddle is hidden in your commit history. Use git log to uncover the clue and figure out your next move.
+🔑 **Hint:** The answer to this riddle will reveal the name of the branch you need to switch to.
 
-Good luck, and keep exploring!
+**Your Task:**  
+Figure out the answer to the riddle and use it to switch to the correct branch. Once you’ve solved it, run the command:
+
+```bash
+git checkout <branch-name>
+```
+
+Your next challenge awaits on the correct branch. Good luck, and may your wits guide you! 🎮
