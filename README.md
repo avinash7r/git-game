@@ -1,17 +1,11 @@
-## Welcome to Task 2!
+**Congratulations!**  
 
-Congratulations on progressing this far! You're doing great.
+You’ve done it! By uncovering the hidden **tree**, you've shown exceptional curiosity and skill.
 
-Here's your next challenge:
+Now, it’s time for your next challenge. Inside this branch, there’s a " code.c ". Something’s off with the code, and you need to figure out who’s responsible for this error.
 
-Riddle:
-"I stand tall with many arms,
-Reaching out to touch the stars.
-My roots run deep, unseen below,
-Yet on me, life and growth bestow.
-What am I?"
+**Hint:** You "blame" the person who does it.  
 
-**Your Task:**
-The answer to this riddle is hidden in your commit history. Use git log to uncover the clue and figure out your next move.
+Once you find the name, you’ll realize it’s more than just a name—it’s also a branch. A branch that’s waiting for you.  
 
-Good luck, and keep exploring!
+Solve the mystery, and move forward to the next step!  
